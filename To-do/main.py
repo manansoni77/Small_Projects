@@ -1,6 +1,5 @@
 from os import system, path
 import pickle
-from types import MethodWrapperType
 
 tasks = []
 
